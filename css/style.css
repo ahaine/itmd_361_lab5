@@ -1,13 +1,8 @@
 td {
 	box-sizing: border-box;
 	border: 5px solid gray;
-	color: white;
 }
 	
-teal {
-	color: teal;
-	overflow: hidden;
-}
 
 white {
 	color: white;
@@ -26,6 +21,7 @@ body {
 	margin-right: auto;
 	border: 0px solid black;
 	padding: 0px; 
+	color: teal;
 }
 
 .center {
