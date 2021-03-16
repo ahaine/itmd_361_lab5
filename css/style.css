@@ -1,0 +1,58 @@
+td {
+	box-sizing: border-box;
+	border: 5px solid gray;
+}
+	
+teal {
+	color: teal;
+	overflow: hidden;
+}
+
+white {
+	color: white;
+	overflow:hidden;
+	background-color: black;
+	font-family: Times New Roman;
+}
+
+body {
+	background-color: black;
+	font-family: Times New Roman;
+	font-size: 1.5em;
+	overflow:hidden;
+	position: abosolute;
+	margin-left: auto;
+	margin-right: auto;
+	border: 0px solid black;
+	padding: 0px; 
+}
+
+.center {
+	font-family: Times New Roman;
+	font-size: .95em;
+	position: relative;
+	left: 450px;
+	box-sizing: border-box;
+	border: 5px solid white;
+	padding: 5px 5px 15px 3px;
+	color: white;
+	overflow: hidden;
+	width:25%;
+	border-radius: 1%;
+}
+
+format {
+	font-family: Times New Roman;
+	font-size: 20px;
+	float: left;
+	clear: clearleft;
+	background-color: black;
+	box-sizing: border-box;
+	text-align: left;
+	border: 5px solid orange;
+	padding: 50px 10px 5px 10px;
+	margin: 5px 10px;
+	overflow: hidden;
+	width: 70%;
+	border-radius: 1%
+}
