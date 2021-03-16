@@ -38,7 +38,7 @@ body {
 	border-radius: 1%;
 }
 
-div {
+.chart {
 	font-family: Times New Roman;
 	font-size: 20px;
 	float: left;
