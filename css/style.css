@@ -8,7 +8,6 @@ body {
 	font-family: Times New Roman;
 	font-size: 1.5em;
 	overflow:hidden;
-	position: abosolute;
 	margin-left: auto;
 	margin-right: auto;
 	border: 0px solid black;
@@ -34,7 +33,6 @@ body {
 	font-family: Times New Roman;
 	font-size: 20px;
 	float: left;
-	clear: clearleft;
 	background-color: black;
 	box-sizing: border-box;
 	text-align: left;
