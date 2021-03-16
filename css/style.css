@@ -2,14 +2,6 @@ td {
 	box-sizing: border-box;
 	border: 5px solid gray;
 }
-	
-
-white {
-	color: white;
-	overflow:hidden;
-	background-color: black;
-	font-family: Times New Roman;
-}
 
 body {
 	background-color: black;
